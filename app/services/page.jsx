@@ -7,21 +7,27 @@ import { BsArrowDownRight } from "react-icons/bs";
 const services = [
   {
     num: "01",
-    title: "Web Development",
+    title: "Website",
     description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, cum!",
-    href: "",
+    href: "#",
   },
   {
     num: "02",
-    title: "UI/UX Design",
+    title: "Company Profile",
     description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, cum!",
-    href: "",
+    href: "#",
   },
   {
     num: "03",
+    title: "Landing Page",
+    description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, cum!",
+    href: "#",
+  },
+  {
+    num: "04",
     title: "Mobile Application",
     description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, cum!",
-    href: "",
+    href: "#",
   },
 ];
 

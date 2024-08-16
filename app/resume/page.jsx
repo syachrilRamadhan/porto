@@ -1,6 +1,6 @@
 "use client";
 
-import { FaHtml5, FaCss3, FaJs, FaReact, FaNodeJs, FaPhp, FaLaravel, FaFigma } from "react-icons/fa";
+import { FaHtml5, FaCss3, FaJs, FaReact, FaNodeJs, FaPhp, FaLaravel, FaFigma, FaDatabase } from "react-icons/fa";
 import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
@@ -9,7 +9,7 @@ import { motion } from "framer-motion";
 
 const about = {
   title: "About me",
-  description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga, quo.",
+  description: "And this is some information about me, let's get to know more.",
   info: [
     {
       fieldName: "Phone",
@@ -41,8 +41,7 @@ const about = {
 const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My Experience",
-  description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam distinctio doloribus, dicta, corporis error iure aspernatur velit mollitia molestiae voluptatum quis libero repudiandae magnam accusantium laborum repellendus nihil ad maiores.",
+  description: "I have experienced many different jobs, before finally switch my career to become a software developer and entering the technology industry.",
   items: [
     {
       company: "ICE BSD City",
@@ -75,7 +74,8 @@ const experience = {
 const education = {
   icon: "/assets/resume/cap.svg",
   title: "My Education",
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, quo.",
+  description:
+    "Fun fact, i'm not an IT graduate or have any basics in the technology industry. i'm just a vocational school graduate with a major in accounting. At first i'm learned programming by myself and then i take online courses, bootcamp, to improve my skills",
   items: [
     {
       institution: "SMKN 1 RANCAH",
@@ -102,7 +102,7 @@ const education = {
 
 const skills = {
   title: "My Skills",
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, quo.",
+  description: "I am able to master several programming languages, databases, including :",
   skillList: [
     {
       icon: <FaHtml5 />,
@@ -117,8 +117,8 @@ const skills = {
       name: "JavaScript",
     },
     {
-      icon: <FaHtml5 />,
-      name: "HTML5",
+      icon: <FaDatabase />,
+      name: "MySQL",
     },
     {
       icon: <FaReact />,

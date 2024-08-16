@@ -13,9 +13,11 @@ const Home = () => {
           <div className="text-center xl:text-left order-2 xl:order-none">
             <span className="text-xl">Software Developer</span>
             <h1 className="h1 mb-6">
-              Hello Im <br /> <span className="text-accent">Syachril Ramadhan</span>
+              Hello I'm <br /> <span className="text-accent">Syachril Ramadhan</span>
             </h1>
-            <p className="max-w [500px] mb-9 text-white/80">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem inventore similique aut consequuntur.</p>
+            <p className="max-w [500px] mb-9 text-white/80">
+              Hi, I'm Syachril Ramadhan, as software developer at a company in Jakarta. I'm usually work coding to develop websites or applications. I believe that design is about more than just making things look pretty, it's about solving problems and creating intuitive, enjoyable experiences for users.
+            </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <Button variant="outline" size="lg" className="flex items-center gap-2">
                 <span>Download CV</span>
