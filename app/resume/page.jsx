@@ -75,7 +75,7 @@ const education = {
   icon: "/assets/resume/cap.svg",
   title: "My Education",
   description:
-    "Fun fact, i'm not an IT graduate or have any basics in the technology industry. i'm just a vocational school graduate with a major in accounting. At first i'm learned programming by myself and then i take online courses, bootcamp, to improve my skills",
+    "Fun fact, i'm not an IT graduate or have any basics in the technology industry. i'm just a vocational school graduate with a major in accounting. At first i'm learned programming by myself and then i take online courses, bootcamp, to improve my skills.",
   items: [
     {
       institution: "SMKN 1 RANCAH",
@@ -88,7 +88,7 @@ const education = {
       duration: "2023",
     },
     {
-      institution: "Online Course UDemy",
+      institution: "UDemy",
       degree: "Certified PHP Programming Language",
       duration: "2022",
     },
@@ -96,6 +96,11 @@ const education = {
       institution: "CognitiveClass.ai",
       degree: "Certified MySQL Realtional Database",
       duration: "2022",
+    },
+    {
+      institution: "Dicoding Indonesis",
+      degree: "Certified Course React Framework",
+      duration: "2023",
     },
   ],
 };

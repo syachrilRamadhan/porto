@@ -8,25 +8,29 @@ const services = [
   {
     num: "01",
     title: "Website",
-    description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, cum!",
+    description:
+      "Get a website specifically designed to meet your business needs. We offer professional, responsive and user-friendly website solutions. From an attractive design to advanced features, your website will be an effective tool for attracting customer attention and increasing your online visibility.",
     href: "#",
   },
   {
     num: "02",
     title: "Company Profile",
-    description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, cum!",
+    description:
+      "We develop effective and engaging landing pages to help you achieve your marketing and conversion goals. With a design specifically designed to grab visitors' attention and encourage action, your landing page will become an important tool in your marketing campaign.",
     href: "#",
   },
   {
     num: "03",
     title: "Landing Page",
-    description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, cum!",
+    description:
+      "Make a strong first impression with our company profile site designed to showcase the uniqueness and strengths of your business. A professional and informative company profile will help build credibility and provide potential customers with the information they need.",
     href: "#",
   },
   {
     num: "04",
     title: "Mobile Application",
-    description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, cum!",
+    description:
+      "Develop intuitive and efficient mobile applications to increase user engagement and expand your business reach. We build reliable apps for multiple platforms, including iOS and Android, with features designed specifically to meet your needs.",
     href: "#",
   },
 ];

@@ -86,6 +86,8 @@ const Contact = () => {
                     <SelectItem value="Website">Website</SelectItem>
                     <SelectItem value="Company Profile">Company Profile</SelectItem>
                     <SelectItem value="Landing Page">Landing Page</SelectItem>
+                    <SelectItem value="Mobile Application">Mobile Application</SelectItem>
+                    <SelectItem value="I Want Hire You">I Want Hire You</SelectItem>
                   </SelectGroup>
                 </SelectContent>
               </Select>
